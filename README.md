@@ -33,5 +33,5 @@ de desarrollo de software.
 ---
 
 ### 📫 Contacto
-- Email: tuemail@gmail.com
+- Email: leiner3025@gmail.com
 - LinkedIn: (opcional)
